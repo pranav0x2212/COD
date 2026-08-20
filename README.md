@@ -1,2 +1,2 @@
 # COD
-All COD ASM Pgms for lab tmrw 
+All COD ASM Pgms for lab 
